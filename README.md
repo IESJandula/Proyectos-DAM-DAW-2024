@@ -22,10 +22,10 @@ En este repositorio encontrarás una recopilación de los proyectos realizados p
 
 
 # Calendario
-- Anteproyecto: viernes 22 de marzo
+- Anteproyecto: viernes 13 de marzo
 - Revisión (checkpoint): viernes 22 de mayo
 - Entrega de proyecto: lunes 17 de junio
-- Exposiciones: jueves 20 de junio
+- Exposiciones: jueves 19 de junio
 # Presentación de proyectos
 La defensa de los proyectos se realizará el día 20 de Junio, cada alumno contará con 20 minutos para realizar la presentación de su proyecto y se dejarán 10 minutos para la formulación de preguntas por parte del tribunal.<br>
 El orden de exposición será el siguiente:
