@@ -16,6 +16,14 @@ En este repositorio encontrarás una recopilación de los proyectos realizados p
 - [Portada](https://docs.google.com/document/d/1PuAnJ8C2DltWCEitBccll9HKhzG2b1G2xnnnsmm3FF8/edit?usp=sharing)
 # Proyectos
 **DAM:**<br>
+Proyecto Printers. Sistema de impresión remota para docentes:
+[Repositorio Cliente]([https://github.com/IESJandula/Reaktor](https://github.com/IESJandula/Reaktor_PrintersClient)
+[Repositorio Server]([https://github.com/IESJandula/Reaktor](https://github.com/IESJandula/Reaktor_PrintersServer)
+- [Javier Martinez Megias](https://github.com/JavierMartinezMegias)
+- [Juan Sutil Mesa](https://github.com/jsutmes2712)
+
+Proyecto [Eco-Jándula](https://github.com/IESJandula/EcoJandula) (Telemetría del coche Eco-Jándula):
+- [David Martínez Flores](https://github.com/DavidMartinezFlores)
 
 
 **DAW:**<br>
