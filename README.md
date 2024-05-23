@@ -25,7 +25,7 @@ Proyecto Printers. Sistema de impresión remota para docentes:
 Proyecto [Eco-Jándula](https://github.com/IESJandula/EcoJandula) (Telemetría del coche Eco-Jándula):
 - [David Martínez Flores](https://github.com/DavidMartinezFlores)
 
-Proyecto [Reaktor Network Server](https://github.com/IESJandula/Reaktor_NetworkServer.git) [Web](https://github.com/IESJandula/Reaktor_NetworkWeb.git) (Escanea equipos dentro en una red):
+Proyecto [Reaktor Network Server](https://github.com/IESJandula/Reaktor_NetworkServer.git) / [Web](https://github.com/IESJandula/Reaktor_NetworkWeb.git) (Escanea equipos dentro en una red):
 - [Alejandro Cazalla Pérez](https://github.com/aaleexcaazaallaa)
 
 
