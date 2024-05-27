@@ -34,6 +34,9 @@ Proyecto [Reaktor Network Server](https://github.com/IESJandula/Reaktor_NetworkS
 Proyecto [Ticket Store](https://github.com/IESJandula/ticketStore) (Gestor de entradas para eventos):
 - [Enrique Contreras López](https://github.com/quuuiquuue)
 
+Proyecto [Destino Deluxe](https://github.com/IESJandula/destinoDeluxe.git) (Web de reservas de alojamientos):
+- [José Del Pino Castillo](https://github.com/Josedelpinocas)
+
 
 # Calendario
 - Anteproyecto: viernes 13 de marzo
