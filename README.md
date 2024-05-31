@@ -28,6 +28,8 @@ Proyecto [Eco-Jándula](https://github.com/IESJandula/EcoJandula) (Telemetría d
 Proyecto [Reaktor Network Server](https://github.com/IESJandula/Reaktor_NetworkServer.git) / [Web](https://github.com/IESJandula/Reaktor_NetworkWeb.git) (Escanea equipos dentro en una red):
 - [Alejandro Cazalla Pérez](https://github.com/aaleexcaazaallaa)
 
+Proyecto [IESFantasy](https://github.com/IESJandula/IESFantasy) (Videojuego en 2D de estrategia basado en el instituto IES Jándula):
+- [Carlos Ruiz Araque](https://github.com/Carlossruiz)
 
 **DAW:**<br>
 
