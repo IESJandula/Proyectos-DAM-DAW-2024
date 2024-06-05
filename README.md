@@ -20,7 +20,8 @@ Proyecto [Cliente Java](https://github.com/IESJandula/Reaktor_PrintersClient) / 
 - [Javier Martinez Megias](https://github.com/JavierMartinezMegias)
 - [Juan Sutil Mesa](https://github.com/jsutmes2712)
 
-Proyecto [Cliente Web](https://github.com/IESJandula/IJandula_TimeTableWeb) / [Servidor](https://github.com/IESJandula/Reaktor_TimetableServer) (Gestión de horarios, ubicaciones y otras herramientas del alumnado y profesorado)
+Proyecto [Cliente Web](https://github.com/IESJandula/IJandula_TimeTableWeb) / [Servidor](https://github.com/IESJandula/Reaktor_TimetableServer) (Gestión de horarios, ubicaciones y otras herramientas del alumnado y profesorado):
+- [Pablo Elías Ruiz Cánovas](https://github.com/PabloRuiz1312)
 
 Proyecto [Cliente Web](https://github.com/IESJandula/Lince_Flutter) / [Servidor](https://github.com/IESJandula/Lince_ServerJava) / [Scripts Google](https://github.com/IESJandula/Lince_Scripts) (Telemetría del coche Eco-Jándula):
 - [David Martínez Flores](https://github.com/DavidMartinezFlores)
