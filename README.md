@@ -17,8 +17,8 @@ En este repositorio encontrarás una recopilación de los proyectos realizados p
 # Proyectos
 **DAM:**<br>
 Proyecto Printers. Sistema de impresión remota para docentes:
-[Repositorio Cliente]([https://github.com/IESJandula/Reaktor](https://github.com/IESJandula/Reaktor_PrintersClient)
-[Repositorio Server]([https://github.com/IESJandula/Reaktor](https://github.com/IESJandula/Reaktor_PrintersServer)
+[Repositorio Cliente](https://github.com/IESJandula/Reaktor_PrintersClient)
+[Repositorio Server](https://github.com/IESJandula/Reaktor_PrintersServer)
 - [Javier Martinez Megias](https://github.com/JavierMartinezMegias)
 - [Juan Sutil Mesa](https://github.com/jsutmes2712)
 
