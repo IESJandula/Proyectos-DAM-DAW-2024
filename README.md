@@ -16,15 +16,17 @@ En este repositorio encontrarás una recopilación de los proyectos realizados p
 - [Portada](https://docs.google.com/document/d/1PuAnJ8C2DltWCEitBccll9HKhzG2b1G2xnnnsmm3FF8/edit?usp=sharing)
 # Proyectos
 **DAM:**<br>
-Proyecto [Cliente](https://github.com/IESJandula/Reaktor_PrintersClient) / [Servidor](https://github.com/IESJandula/Reaktor_PrintersServer) / [Web](https://github.com/IESJandula/IJandula_PrintersWeb) (Sistema de impresión remota para docentes):
+Proyecto [Cliente Java](https://github.com/IESJandula/Reaktor_PrintersClient) / [Servidor](https://github.com/IESJandula/Reaktor_PrintersServer) / [Cliente Web](https://github.com/IESJandula/IJandula_PrintersWeb) (Sistema de impresión remota para docentes):
 - [Javier Martinez Megias](https://github.com/JavierMartinezMegias)
 - [Juan Sutil Mesa](https://github.com/jsutmes2712)
 
-Proyecto [Eco-Jándula](https://github.com/IESJandula/EcoJandula) (Telemetría del coche Eco-Jándula):
+Proyecto [Cliente Web](https://github.com/IESJandula/IJandula_TimeTableWeb) / [Servidor](https://github.com/IESJandula/Reaktor_TimetableServer) (Gestión de horarios, ubicaciones y otras herramientas del alumnado y profesorado)
+
+Proyecto [Cliente Web](https://github.com/IESJandula/Lince_Flutter) / [Servidor](https://github.com/IESJandula/Lince_ServerJava) / [Scripts Google](https://github.com/IESJandula/Lince_Scripts) (Telemetría del coche Eco-Jándula):
 - [David Martínez Flores](https://github.com/DavidMartinezFlores)
 - Acceso al producto final: [https://lince.iesjandula.es](https://lince.iesjandula.es/)
 
-Proyecto [Reaktor Network Server](https://github.com/IESJandula/Reaktor_NetworkServer.git) / [Web](https://github.com/IESJandula/Reaktor_NetworkWeb.git) (Escanea equipos dentro en una red):
+Proyecto [Reaktor Network Server](https://github.com/IESJandula/Reaktor_NetworkServer) / [Web](https://github.com/IESJandula/Reaktor_NetworkWeb) (Escanea equipos dentro en una red):
 - [Alejandro Cazalla Pérez](https://github.com/aaleexcaazaallaa)
 
 Proyecto [IESFantasy](https://github.com/IESJandula/IESFantasy) (Videojuego en 2D de estrategia basado en el instituto IES Jándula):
