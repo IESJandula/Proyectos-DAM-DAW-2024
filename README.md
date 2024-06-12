@@ -52,9 +52,20 @@ La defensa de los proyectos se realizará el día 19 de Junio, cada alumno conta
 El orden de exposición será el siguiente:
 
 DAM<br>
-
+09:00: Cazalla Pérez, Alejandro<br>
+09:30: Martínez Flores, David<br>
+10:00: Martínez Megías, Javier y Sutil Mesa, Juan<br>
+10:30: Ruiz Araque, Carlos<br>
+11:00: Ruiz Cánovas, Pablo Elías<br>
 
 DAW<br>
+16:00: Contreras López, Enrique<br>
+16:30: Gutiérrez Carmona, Francisco Manuel<br>
+17:00: Jurado Bejarano, Ángel<br>
+17:30 - 18:00: Descanso<br>
+18:30: Jurado Magdaleno, Alejandro<br>
+19:00: Mesa Cofrades Silvia<br>
+19:30: Pino Castillo, José del<br>
 
 
 Para poder realizar la presentación del proyecto, el alumno deberá mandar en formato zip al tutor que le ha coordinado el proyecto los siguientes documentos:
