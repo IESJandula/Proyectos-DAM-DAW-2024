@@ -61,9 +61,9 @@ DAM<br>
 DAW<br>
 16:00: Contreras López, Enrique<br>
 16:30: Gutiérrez Carmona, Francisco Manuel<br>
-17:00: Jurado Bejarano, Ángel<br>
+17:00: Jurado Magdaleno, Alejandro<br>
 17:30 - 18:00: Descanso<br>
-18:30: Jurado Magdaleno, Alejandro<br>
+18:30: Jurado Bejarano, Ángel<br>
 19:00: Mesa Cofrades Silvia<br>
 19:30: Pino Castillo, José del<br>
 
