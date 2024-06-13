@@ -41,6 +41,9 @@ Proyecto [Ticket Store](https://github.com/IESJandula/ticketStore) (Gestor de en
 Proyecto [Destino Deluxe](https://github.com/IESJandula/destinoDeluxe.git) (Web de reservas de alojamientos):
 - [José Del Pino Castillo](https://github.com/Josedelpinocas)
 
+Proyecto [ExoticRentCar](https://github.com/IESJandula/ExoticRentCar.git) (Web de alquileres de coches deportivos):
+- [Ángel Jurado Bejarano](https://github.com/JurBej)
+
 
 # Calendario
 - Anteproyecto: viernes 13 de marzo
