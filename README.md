@@ -47,6 +47,12 @@ Proyecto [ExoticRentCar](https://github.com/IESJandula/ExoticRentCar.git) (Web d
 Proyecto [WebLince](https://github.com/IESJandula/Lince_LaravelWeb.git) (Web del vehículo ecológico Lince):
 - [Francisco Manuel Gutiérrez Carmona](https://github.com/francis65000)
 
+Proyecto [GetFit](https://github.com/IESJandula/GetFit.git) (Web para gestionar un gimnasio):
+- [Alejandro Jurado Magdaleno](https://github.com/alejandrojurado28)
+
+Proyecto [GAM](https://github.com/IESJandula/GAM.git) (Web para compartir experiencias para turistas):
+- [Silvia Mesa Cofrades](https://github.com/silviamescof)
+
 # Calendario
 - Anteproyecto: viernes 13 de marzo
 - Revisión (checkpoint): miércoles 22 de mayo
